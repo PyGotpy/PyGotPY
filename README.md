@@ -1,4 +1,4 @@
-### what's up! I'm PyGotPy
+### what's up! I'm GotPy
 
 You can also find me around...
 
