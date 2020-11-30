@@ -8,5 +8,6 @@ You can also find me around...
  - LEARNING ALL THE THINGS! no, but seriously though, l love learning.
 
 ### find me online
-![Twitter follow](https://img.shields.io/twitter/follow/PyGotpy?label=PyGotPy&style=social)
+![Twitter follow](https://img.shields.io/twitter/follow/PyGotpy?label=PyGotPy&style=social)](https://twitter.com/intent/follow?
+original_referer=https%3A%2F%2Fgithub.comFadiman9&screen_name=hungrytrtl)
 ![Subscrive To PyGotpy Pip]
