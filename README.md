@@ -9,5 +9,5 @@ You can also find me around...
 
 ### find me online
 ![Twitter follow](https://img.shields.io/twitter/follow/PyGotpy?label=PyGotPy&style=social)](https://twitter.com/intent/follow?
-original_referer=https%3A%2F%2Fgithub.comFadiman9&screen_name=hungrytrtl)
+original_referer=https%3A%2F%2Fgithub.comFadiman9&screen_name=PyGotpy)
 ![Subscrive To PyGotpy Pip]
